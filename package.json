@@ -1,0 +1,14 @@
+{
+    "name": "db-distribuida",
+    "version": "1.0.0",
+    "description": "Simulación de base de datos distribuida con Firebase",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "firebase": "^9.0.0",
+      "dotenv": "^16.0.0"
+    }
+  }
+  
